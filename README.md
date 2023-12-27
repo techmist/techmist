@@ -1,10 +1,13 @@
 # Techmista: Hacker do Tempo, Mestre da Tecnologia
+Alquimista digital, desvendo segredos e desafio o ciberespaço. Gurus se tornam aprendizes, revelando que a verdadeira alquimia transcende a vaidade. Deixo enigmas nos confins do código.
+
 
 [![Alquimista da Tecnologia (nível máximo)](https://img.shields.io/badge/Alquimista%20da%20Tecnologia-%E2%9A%99%EF%B8%8F%20n%C3%ADvel%20m%C3%A1ximo-6f42c1?style=for-the-badge&logo=cyberpunk)](https://example.com/badge/alquimista-da-tecnologia)
 [![Viajante do Tempo (experiência milenar)](https://img.shields.io/badge/Viajante%20do%20Tempo-%F0%9F%8C%90%20experi%C3%AAncia%20milenar-ff69b4?style=for-the-badge&logo=hackaday&logoColor=white)](https://example.com/badge/viajante-do-tempo)
 [![Missão Secreta (classificada)](https://img.shields.io/badge/Miss%C3%A3o%20Secreta-%F0%9F%9A%80%20classificada-00acc1?style=for-the-badge&logo=cyberpunk)](https://example.com/badge/missao-secreta)
 [![Open Source (código quântico)](https://img.shields.io/badge/Open%20Source-%F0%9F%9B%A1%20c%C3%B3digo%20qu%C3%A2ntico-4CAF50?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://example.com/badge/open-source)
 [![Linguagens Arcanas (todas elas)](https://img.shields.io/badge/Linguagens%20Arcanas-todas%20elas-4EAA25?style=for-the-badge&logo=linux&logoColor=white)](https://example.com/badge/linguagens-arcanas)
+
 
 ## Sobre Mim
 
