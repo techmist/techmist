@@ -1,4 +1,4 @@
-# Techmista: Hacker do Tempo, Mestre da Tecnologia
+# Techmista
 Alquimista digital, desvendo segredos e desafio o ciberespaço. Gurus se tornam aprendizes, revelando que a verdadeira alquimia transcende a vaidade. Deixo enigmas nos confins do código.
 
 
